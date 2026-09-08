@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-Command *)",
+      "PowerShell(where.exe arm-none-eabi-gcc 2>$null; where.exe gcc 2>$null; $env:PATH -split ';' | Where-Object { $_ -match 'arm|keil|gcc|gnu' })",
+      "PowerShell(winget search *)",
+      "PowerShell(winget install *)"
+    ]
+  }
+}
