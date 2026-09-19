@@ -1,0 +1,13 @@
+﻿loop=outer
+ch=B
+Kp=110
+Ki=0
+Kd=0
+Step=0.2
+OutMax=25
+InnerKp=2500
+InnerKi=4000
+InnerKd=0
+tStep=0.3001585
+baseline=805.39856
+expected=805.59856
