@@ -1,0 +1,13 @@
+﻿loop=inner
+ch=D
+Kp=2500
+Ki=12000
+Kd=0
+Step=5
+OutMax=16384
+InnerKp=2000
+InnerKi=0
+InnerKd=0
+tStep=0.3013713
+baseline=-0.17653296
+expected=5
