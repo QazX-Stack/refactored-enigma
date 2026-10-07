@@ -17,7 +17,7 @@
 #define INPUT_CH_SWITCH      4
 
 #define INPUT_VX_SIGN        (+1.0f)
-#define INPUT_VY_SIGN        (+1.0f)
+#define INPUT_VY_SIGN        (-1.0f)
 #define INPUT_WZ_SIGN        (+1.0f)
 
 #define INPUT_VX_MAX         0.8f
